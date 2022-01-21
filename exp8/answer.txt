@@ -1,0 +1,11 @@
+{
+"1" : ["2","Door","关联"],
+"2" : ["getLockId","类Door从状态trying2Open转移到状态opened"],
+"3" : "构造",
+"4" : "guests",
+"5" : ["Client","Exception","依赖"],
+"6" : ["guests.size()<10","guests.size()==9","9"],
+"7" : ["类Door从状态trying2Open转移到状态opened","Open"],
+"8" : ["trying>=5","key.getMatchedLockId()==locker.getLockId()","trying2Open","opened"],
+"9" : ["lock","unlock"]
+}

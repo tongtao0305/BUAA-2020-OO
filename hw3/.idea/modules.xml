@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aptx/aptx.iml" filepath="$PROJECT_DIR$/aptx/aptx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw3.iml" filepath="$PROJECT_DIR$/hw3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wra/wra.iml" filepath="$PROJECT_DIR$/wra/wra.iml" />
+    </modules>
+  </component>
+</project>

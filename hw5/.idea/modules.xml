@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RyanMrW/RyanMrW.iml" filepath="$PROJECT_DIR$/RyanMrW/RyanMrW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stanlance/Stanlance.iml" filepath="$PROJECT_DIR$/Stanlance/Stanlance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework5-ElevatorDispatch/homework5-ElevatorDispatch.iml" filepath="$PROJECT_DIR$/homework5-ElevatorDispatch/homework5-ElevatorDispatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw5.iml" filepath="$PROJECT_DIR$/hw5.iml" />
+    </modules>
+  </component>
+</project>
